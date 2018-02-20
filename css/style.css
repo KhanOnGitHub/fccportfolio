@@ -1,3 +1,7 @@
+.main-container {
+    margin: 0 auto;
+    width: 50%;
+}
 .nav-bar { 
 	position: fixed;
 	right: 0;
@@ -16,4 +20,10 @@
 
 .nav-bar a.active {
 	text-decoration: underline;
+}
+
+.button p {
+    display: inline;
+    border-style: solid;
+
 }
